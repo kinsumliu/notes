@@ -1,6 +1,6 @@
 # notes
 Gaussian Processes
-- vanilla implementation for regression
+- [implementation for regression](./011519_gaussian_process.ipynb)
 
 Sampling
-- desmonstration of antithetic variates
+- [demonstration of antithetic variates](./011519_antithetic_variates.ipynb)
